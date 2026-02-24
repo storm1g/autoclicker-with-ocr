@@ -1,0 +1,76 @@
+{
+  "click_points": [
+    {
+      "label": "Item",
+      "x": 1187,
+      "y": 1206,
+      "delay_after": 0.3,
+      "double_click": true
+    },
+    {
+      "label": "Prefix remove",
+      "x": 1120,
+      "y": 1209,
+      "delay_after": 0.3,
+      "double_click": true
+    },
+    {
+      "label": "Confirm 1",
+      "x": 1594,
+      "y": 1054,
+      "delay_after": 0.3,
+      "double_click": false
+    },
+    {
+      "label": "Confirm 2",
+      "x": 1594,
+      "y": 1054,
+      "delay_after": 0.3,
+      "double_click": false
+    },
+    {
+      "label": "Item (copy)",
+      "x": 1187,
+      "y": 1206,
+      "delay_after": 0.3,
+      "double_click": true
+    },
+    {
+      "label": "Prefix",
+      "x": 1154,
+      "y": 1213,
+      "delay_after": 0.3,
+      "double_click": true
+    },
+    {
+      "label": "Confirm 3",
+      "x": 1594,
+      "y": 1054,
+      "delay_after": 0.3,
+      "double_click": false
+    },
+    {
+      "label": "Confirm 4",
+      "x": 1594,
+      "y": 1054,
+      "delay_after": 0.1,
+      "double_click": false
+    }
+  ],
+  "text_region": {
+    "x": 2218,
+    "y": 1263,
+    "w": 212,
+    "h": 120
+  },
+  "target_words": [],
+  "forbidden_words": [],
+  "color_check": null,
+  "loop_delay": 0.1,
+  "max_attempts": 10,
+  "stop_key": "F8",
+  "hotkey_start": "F6",
+  "or_words": [
+    "Knuckle"
+  ]
+}
